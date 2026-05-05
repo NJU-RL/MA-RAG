@@ -1,0 +1,7 @@
+__pycache__/
+temp.*
+temp/
+wandb/
+runs/
+.*/
+.env
